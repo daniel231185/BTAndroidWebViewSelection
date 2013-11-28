@@ -299,4 +299,7 @@ android.selection.selectBetweenHandles = function(){
    	}
 };
 
+function test(){
+	alert("hello from test function");
+}
 
